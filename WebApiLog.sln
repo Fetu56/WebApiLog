@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiLog", "WebApiLog\WebApiLog.csproj", "{53BA5583-46A7-44C9-BBC0-BBFB96862C91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53BA5583-46A7-44C9-BBC0-BBFB96862C91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BA5583-46A7-44C9-BBC0-BBFB96862C91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BA5583-46A7-44C9-BBC0-BBFB96862C91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BA5583-46A7-44C9-BBC0-BBFB96862C91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EA61E6A-0FA5-4ED6-BF81-D61F55A6ADB5}
+	EndGlobalSection
+EndGlobal
